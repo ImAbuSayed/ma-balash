@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma-balash/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for Ma Balash](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
