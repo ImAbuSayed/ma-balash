@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ma Balash
+
+This log tracks the cryptographic history and versioning for the song **Ma Balash** (ma-balash).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:49:19.694861 | `v1` | `372df837520040245e5799c0adc2f0ceace4def0cf179daff1bf4c80990f35ed` | `a0b21c691fe7fac2387dc51fe0f2208d4e290c61b8809982ee57cb17c496ee7d` | `2026-05-09_ma-balash-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
